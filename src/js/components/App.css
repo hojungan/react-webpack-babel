@@ -1,0 +1,21 @@
+h1 {
+  color: #fff;
+  font-size: 4rem;
+}
+
+main {
+  text-align: center;
+}
+
+main p {
+  color: #fff;
+  font-size: 1.8rem;
+  margin-bottom: 5px;
+}
+
+main .code-block {
+  display: inline-block;
+  background: #5e5e5e;
+  padding: 0.1rem 0.6rem;
+  border-radius: 10px;
+}
